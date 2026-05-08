@@ -1,0 +1,128 @@
+[
+  {
+    "date": "June 25, 2026",
+    "title": "Star Fox (Nintendo Switch 2)",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfns2.jpg",
+    "side": "left",
+    "link": "/games/sf2026.html"
+  },
+  {
+    "date": "April 22, 2016",
+    "title": "Star Fox Zero & Star Fox Guard",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfzero.jpg",
+    "side": "right",
+    "link": "/games/sfzero.html"
+  },
+  {
+    "date": "April 20, 2016",
+    "title": "Star Fox Zero: The Battle Begins",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfzero_anime.jpg",
+    "side": "left",
+    "link": "/animations&comics/battle-begins.html"
+  },
+  {
+    "date": "November 10, 2017",
+    "title": "Starlink: Battle for Atlas",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/starlink.jpg",
+    "side": "right",
+    "link": "/games/starlink.html"
+  },
+  {
+    "date": "September 29, 2017",
+    "title": "Star Fox 2 (Official Release)",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sf2.jpg",
+    "side": "left",
+    "link": "/games/sf2.html"
+  },
+  {
+    "date": "September 9, 2011",
+    "title": "Star Fox 64 3D",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sf643d.jpg",
+    "side": "right",
+    "link": "/games/sf643d.html"
+  },
+  {
+    "date": "August 28, 2006",
+    "title": "Star Fox Command",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfcommand.jpg",
+    "side": "left",
+    "link": "/games/sfcommand.html"
+  },
+  {
+    "date": "February 14, 2005",
+    "title": "Star Fox: Assault",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfassault.jpg",
+    "side": "right",
+    "link": "/games/sfassault.html"
+  },
+  {
+    "date": "September 23, 2002",
+    "title": "Star Fox Adventures",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfadventures.jpg",
+    "side": "left",
+    "link": "/games/sfadventures.html"
+  },
+  {
+    "date": "2002",
+    "title": "Farewell, Beloved Falco (Manga)",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/farewell_falco.jpg",
+    "side": "right",
+    "link": "/animations&comics/farewell-falco.html"
+  },
+  {
+    "date": "July 1, 1997",
+    "title": "Star Fox 64",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sf64.jpg",
+    "side": "left",
+    "link": "/games/sf64.html"
+  },
+  {
+    "date": "April 1997",
+    "title": "Star Fox 64 Manga (Bessatsu Corocoro)",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sf64_manga.jpg",
+    "side": "right",
+    "link": "/animations&comics/sf64-manga.html"
+  },
+  {
+    "date": "March 26, 1993",
+    "title": "Star Fox (SNES)",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sf_snes.jpg",
+    "side": "left",
+    "link": "/games/sf-snes.html"
+  },
+  {
+    "date": "February 1993",
+    "title": "Star Fox Nintendo Power Comic",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/np_comic.webp",
+    "side": "right",
+    "link": "/animations&comics/np-comic.html"
+  }
+]
