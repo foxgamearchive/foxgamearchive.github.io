@@ -5,26 +5,17 @@
     "category": "official",
     "description": "",
     "image": "/timeline/images/sfns2.jpg",
-    "side": "left",
+    "side": "right",
     "link": "/games/sf2026.html"
   },
   {
-    "date": "April 22, 2016",
-    "title": "Star Fox Zero & Star Fox Guard",
-    "category": "official",
+    "date": "March 25, 2023 ",
+    "title": "A Fox In Space (Episode 2)",
+    "category": "fan",
     "description": "",
-    "image": "/timeline/images/sfzero.jpg",
-    "side": "right",
-    "link": "/games/sfzero.html"
-  },
-  {
-    "date": "April 20, 2016",
-    "title": "Star Fox Zero: The Battle Begins",
-    "category": "official",
-    "description": "",
-    "image": "/timeline/images/sfzero_anime.jpg",
+    "image": "/timeline/images/afoxinspace_ep2.jpg",
     "side": "left",
-    "link": "/animations&comics/battle-begins.html"
+    "link": "/fanprojects/a-fox-in-space.html"
   },
   {
     "date": "November 10, 2017",
@@ -43,6 +34,42 @@
     "image": "/timeline/images/sf2.jpg",
     "side": "left",
     "link": "/games/sf2.html"
+  },
+  {
+    "date": "April 25, 2016",
+    "title": "A Fox In Space (Episode 1)",
+    "category": "fan",
+    "description": "",
+    "image": "/timeline/images/afoxinspace_ep1.jpg",
+    "side": "right",
+    "link": "/fanprojects/a-fox-in-space.html"
+  },
+  {
+    "date": "April 22, 2016",
+    "title": "Star Fox Zero & Star Fox Guard",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfzero.jpg",
+    "side": "left",
+    "link": "/games/sfzero.html"
+  },
+  {
+    "date": "April 20, 2016",
+    "title": "Star Fox Zero: The Battle Begins",
+    "category": "official",
+    "description": "",
+    "image": "/timeline/images/sfzero_anime.jpg",
+    "side": "right",
+    "link": "/animations&comics/battle-begins.html"
+  },
+  {
+    "date": "2014",
+    "title": "A Fox In Space (Production Begins)",
+    "category": "fan",
+    "description": "",
+    "image": "/timeline/images/afoxinspace.jpg",
+    "side": "left",
+    "link": "/fanprojects/a-fox-in-space.html"
   },
   {
     "date": "September 9, 2011",
